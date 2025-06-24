@@ -9,9 +9,9 @@ namespace Variablesn
   
     internal class Program
     {
-        /*
-         * Welcome to GIT.
-         */
+       /*
+       Hello all
+       */
        
         /*
          * Varibles: varible is used to store some value 
